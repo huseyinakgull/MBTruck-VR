@@ -1,6 +1,6 @@
-# 🚌 Mercedes Benz Türk A.Ş. VR Eğitim Merkezi
+# Mercedes Benz Türk A.Ş. VR Eğitim Merkezi
 
-![Mercedes Benz Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mercedes-Benz-Logo.svg/640px-Mercedes-Benz-Logo.svg.png)
+![mercedes](https://github.com/user-attachments/assets/ae11f5c8-9630-45e6-8174-40d4fbd97db5)
 
 ## 🎯 Proje Genel Bakış
 
