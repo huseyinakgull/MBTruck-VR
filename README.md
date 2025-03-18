@@ -1,5 +1,3 @@
-# Mercedes Benz Türk A.Ş. VR Eğitim Merkezi
-
 ![mercedes](https://github.com/user-attachments/assets/ae11f5c8-9630-45e6-8174-40d4fbd97db5)
 
 ## 🎯 Proje Genel Bakış
