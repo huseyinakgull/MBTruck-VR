@@ -43,7 +43,7 @@ Projede Unity'nin XR Interaction Toolkit kullanılarak gelişmiş etkileşim mek
 
 ### Performans Optimizasyonları
 - Kaynak yönetimi için havuz (pool) teknikleri
-- Verimli güncellem döngüleri
+- Verimli güncelleme döngüleri
 - Düşük gecikme süreli etkileşimler
 
 ## 🔒 Yasal Uyarı
