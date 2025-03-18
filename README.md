@@ -1,5 +1,6 @@
-# ![mercedes](https://github.com/user-attachments/assets/38584101-8c82-4ab5-887c-e0f663b85706)
-Mercedes Benz Türk A.Ş. VR Eğitim Merkezi
+### ![mercedes](https://github.com/user-attachments/assets/38584101-8c82-4ab5-887c-e0f663b85706)
+
+## Mercedes Benz Türk A.Ş. VR Eğitim Merkezi
 
 ## Proje Açıklaması
 
